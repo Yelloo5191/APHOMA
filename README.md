@@ -1,2 +1,2 @@
 # APHOMA
-Weather-based Clothing Assistant GitHub Repo. AI-powered app for personalized outfit recommendations. Cutting-edge codebase for outfit matching, closet organization, and daily inspiration.
+Introducing APHOMA: your personal AI-powered clothing assistant. This innovative mobile app leverages real-time weather data to provide personalized outfit recommendations that match the current weather conditions. APHOMA considers your fashion preferences and coordinates clothing items for a stylish and weather-appropriate look. With APHOMA, you'll effortlessly stay fashion-forward while being prepared for any weather.
